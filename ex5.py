@@ -2,12 +2,14 @@ name = "Daniel Hsu"
 age = 17
 height = 181 # cm
 weight = 90 #kg
+heightInch = height / 2.54
 eyes = "Black"
 teeth = "White"
 hair = "Black"
 
 print(f"Let's talk about {name}.")
 print(f"I'm {height} centimeters tall.")
+print(f"That is {heightInch} inches.")
 print(f"I'm {weight} kilograms heavy.")
 print("Actually that's quite heavy.")
 print(f"I've got {eyes} eyes and {hair} hair.")
