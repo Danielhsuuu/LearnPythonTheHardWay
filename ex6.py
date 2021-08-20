@@ -26,9 +26,13 @@ print(f"I also said: '{y}'")
 hilarious = False
 joke_evaluation = "Isn't that joke so funny?! {}"
 
+#prints Isn't that joke so funny?! math
 print(joke_evaluation.format(math))
 
+#declares a String containing "This is the left side of..."
 w = "This is the left side of..."
+#declares a String containing "a string with a right side."
 e = "a string with a right side."
 
+#prints This is the left side of...a string with a right side.
 print(w + e)
