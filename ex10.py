@@ -14,6 +14,6 @@ print(persian_cat)
 print(backlash_cat)
 print(fat_cat)
 
-while True:
-    for i in ["/","-","|","\\","|"]:
-        print("%r\r" % i)
+#while True:
+#    for i in ["/","-","|","\\","|"]:
+#       print("%r\r" % i)
