@@ -32,7 +32,7 @@ print("And we can combine the two, variables and math:")
 #calls the function cheese_and_crackers and gives it amount_of_cheese + 100 and amount_of_crackers + 1000 as arguments
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
-#study drill
+#study drill run a function ten different ways
 def plus(value1, value2):
     print(value1 + value2)
 
@@ -46,3 +46,40 @@ plus(7, 7)
 plus(8, 8)
 plus(9, 9)
 plus(10, 10)
+
+#Reading it backwards for tha study drill...
+'''
+)01 ,01(sulp
+)9 ,9(sulp
+)8 ,8(sulp
+)7 ,7(sulp
+)6 ,6(sulp
+)5 ,5(sulp
+)4 ,4(sulp
+)3 ,3(sulp
+)2 ,2(sulp
+)1 ,1(sulp
+
+)2eulav + 1eulav(tnirp    
+:)2eulav ,1eulav(sulp fed
+
+)0001 + srekcarc_fo_tnuoma ,001 + eseehc_fo_tnuoma(srekcarc_dna_eseehc
+)":htam dna selbairav ,owt eht enibmoc nac ew dnA"(tnirp
+)6 + 5 ,02 + 01(srekcarc_dna_eseehc
+)":oot edisni htam od neve nac eW"(tnirp
+
+)srekcarc_fo_tnuoma ,eseehc_fo_tnuoma(srekcarc_dna_eseehc
+
+05 = srekcarc_fo_tnuoma
+01 = eseehc_fo_tnuoma
+)":tpircs ruo morf selbairav esu nac ew ,RO"(tnirp
+
+)03 ,02(srekcarc_dna_eseehc
+)":yltcerid srebmun noitcnuf eht evig tsuj nac eW"(tnirp
+
+)"n\.teknalb a teG"(tnirp    
+)"!ytrap a rof hguone s'taht naM"(tnirp    
+)srekcarc_fo_sexob % "!srekcarc fo sexob d% evah uoY"(tnirp    
+)tnuoc_eseehc % "!seseehc d% evah uoY"(tnirp    
+ :)srekcarc_fo_sexob ,tnuoc_eseehc(srekcarc_dna_eseehc fed
+'''

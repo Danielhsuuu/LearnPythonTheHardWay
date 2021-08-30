@@ -1,5 +1,6 @@
 #we need the 'w' because open needs the explicit command to write stuff in out txt file
 #we do not need the truncate funtion because writing things into the file has already emptied the file
+#ex16read.py reads the file
 from sys import argv
 
 script, filename = argv

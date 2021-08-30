@@ -1,3 +1,4 @@
+#the seek function goes to the number of byte given to it as an argument
 from sys import argv
 
 script, input_file = argv
@@ -38,6 +39,7 @@ print("Let's print three lines:")
 #declares a variable named current_line holding the integer 1
 current_line = 1
 #calls the function print_a_line and passes it two arguments, current_line and current_file
+#current line is now 1
 print_a_line(current_line, current_file)
 
 #adds one to the integer variable current_line
