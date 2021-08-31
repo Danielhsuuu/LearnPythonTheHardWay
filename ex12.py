@@ -1,3 +1,4 @@
+#pydoc extracts documentation from the source code itself
 #raw_input doesn't work, so I used input
 age = input("how old are you?")
 height = input("how tall are you?")

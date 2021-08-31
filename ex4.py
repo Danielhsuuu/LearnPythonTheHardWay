@@ -1,3 +1,4 @@
+#that error occurs because there is no such variable named 'car_pool_capacity', which is probably mistakened as 'carpool_capacity'
 #declares an int named peopleInPAS containing 300
 peopleInPAS = 300
 #declares an int named Male containing 140

@@ -1,7 +1,8 @@
 tabby_cat = "\tI'm tabbed in"
 persian_cat = "\tI'm split \non a line"
-backlash_cat = "I'm \\ a \\ cat"
+backlash_cat = 'I am \\ a \\ cat'
 
+#use ' instead of " because you don't have to hold shift that way.
 fat_cat = '''
 I'll do a list:
 \t- Cat food
@@ -9,9 +10,9 @@ I'll do a list:
 \t- Catnip \n\t- Grass
 '''
 
-print(tabby_cat)
-print(persian_cat)
-print(backlash_cat)
+print("a tabby cat: %r" % tabby_cat)
+print("a persian car: %s" % persian_cat)
+print("a backlash cat: %r" % backlash_cat)
 print(fat_cat)
 
 #while True:

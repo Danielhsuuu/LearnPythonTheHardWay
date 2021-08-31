@@ -1,8 +1,8 @@
 from sys import argv
-script, user_name = argv
+script, user_name, age = argv
 prompt = 'beep> '
 
-print ("Hi %s, I'm the %s script." % (user_name, script))
+print ("Hi %s who is %s years old, I'm the %s script." % (user_name, age, script))
 print ("I'd like to ask you a few questions.")
 print ("Do you like me %s?" % user_name)
 likes = input(prompt)

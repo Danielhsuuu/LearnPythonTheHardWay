@@ -2,6 +2,7 @@
 fruits = 10
 
 #declares an f-string containing "There are {fruits} types of fruits."
+#a string inside a string
 x = f"There are {fruits} types of fruits."
 
 #declares a string named math containing "math"
@@ -10,6 +11,7 @@ math = "math"
 do_not = "don't"
 
 #declares an f-string containing "Those who know {math} and those who {do_not}."
+#a string inside a string*2
 y = f"Those who know {math} and those who {do_not}."
 
 #prints x
@@ -18,8 +20,10 @@ print(x)
 print(y)
 
 #prints I said: There are 10 types of fruits.
+#a string inside a string
 print(f"I said: {x}")
 #prints I also said: 'Those who know math and those who don't.'
+#a string inside a string
 print(f"I also said: '{y}'")
 
 #declares a boolean containing false
@@ -36,3 +40,4 @@ e = "a string with a right side."
 
 #prints This is the left side of...a string with a right side.
 print(w + e)
+#w + e makes a longer string because e is simply put behind w
