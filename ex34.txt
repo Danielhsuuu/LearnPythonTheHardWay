@@ -1,0 +1,11 @@
+The animal at 1 is the second animal and is a Python
+the third animal is at 2 and is a peacock
+the first animal is a bear and is at 0
+the animal at 3 is the fourth animal and is a kangaroo
+the fifth animal is at 4 and is a whale
+the animal at 2 is the third animal and is a peacock
+the sixth animal is at 5 and is a platypus
+the animal at 4 is the fifth animal and is a whale
+
+year 2010 is year 2010 and not 2009 because it is just fundamentally different with a difference of 1. Contrarily, 2010 is 2010 because 2010 is 2010
+What do you mean by "translate the lists"
